@@ -3255,3 +3255,6 @@ input, select, textarea {
 	.margin-top {
 		margin-top: 2rem;
 	}
+	html {
+		scroll-behavior: smooth;
+	}
