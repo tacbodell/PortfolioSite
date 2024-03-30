@@ -3258,3 +3258,9 @@ input, select, textarea {
 	html {
 		scroll-behavior: smooth;
 	}
+
+	.downloadLink {
+		background-color: #49bf9d;
+		color: white;
+		border-radius: .35em;
+	}
